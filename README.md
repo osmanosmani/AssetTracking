@@ -20,12 +20,12 @@ A clean and structured C# console application designed to track company assets a
 
 ## 📁 Project Structure
 
-![Project Structure](images/structure.png)
+![Project Structure](images/structure.PNG)
 
 
 ## 🖥️ Example Output
 
-![Console Output](images/output.png)
+![Console Output](images/output.PNG)
 
 ---
 
